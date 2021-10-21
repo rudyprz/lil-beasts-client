@@ -4,6 +4,12 @@
 
 ### `npm install`
 
+## For admin access in site (login staff):
+
+### username: lilbeasts
+
+### password: @dm1n_B3@sts
+
 ## Available Scripts
 
 In the project directory, you can run:
